@@ -1,0 +1,6 @@
+{
+  "name": "HighSierra AI Studio",
+  "description": "macOS 10.13 High Sierra Native AI Client for Gemini & Local LLMs",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
